@@ -1,0 +1,23 @@
+{
+  "blurb": "TODO: add blurb for numbers exercise",
+  "authors": [
+    {
+      "github_username": "TalesDias",
+      "exercism_username": "TalesDias"
+    }
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/AssemblyLine.java"
+    ],
+    "test": [
+      "src/test/java/AssemblyLineTest.java"
+    ],
+    "exemplar": [
+      ".meta/src/reference/java/AssemblyLine.java"
+    ]
+  },
+  "forked_from": [
+    "csharp/numbers"
+  ]
+}

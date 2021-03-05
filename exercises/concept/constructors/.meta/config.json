@@ -1,0 +1,26 @@
+{
+  "blurb": "TODO: add blurb for constructors exercise",
+  "contributors": [
+    {
+      "github_username": "mirkoperillo",
+      "exercism_username": "mirkoperillo"
+    }
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/RemoteControlCar.java"
+    ],
+    "test": [
+      "src/test/java/RemoteControlCarTest.java"
+    ],
+    "exemplar": [
+      ".meta/src/reference/java/RemoteControlCar.java"
+    ]
+  },
+  "authors": [
+    {
+      "github_username": "ystromm",
+      "exercism_username": "ystromm"
+    }
+  ]
+}

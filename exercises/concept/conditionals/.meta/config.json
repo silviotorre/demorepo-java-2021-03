@@ -1,0 +1,23 @@
+{
+  "blurb": "TODO: add blurb for conditionals exercise",
+  "authors": [
+    {
+      "github_username": "TalesDias",
+      "exercism_username": "TalesDias"
+    }
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/Blackjack.java"
+    ],
+    "test": [
+      "src/test/java/BlackjackTest.java"
+    ],
+    "exemplar": [
+      ".meta/src/reference/java/Blackjack.java"
+    ]
+  },
+  "forked_from": [
+    "go/conditionals"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "blurb": "TODO: add blurb for switch-statement exercise",
+  "authors": [
+    {
+      "github_username": "Azumix",
+      "exercism_username": "Azumix"
+    }
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/PlayAnalyzer.java"
+    ],
+    "test": [
+      "src/test/java/PlayAnalyzerTest.java"
+    ],
+    "exemplar": [
+      ".meta/src/reference/java/PlayAnalyzer.java"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "blurb": "TODO: add blurb for ternary-operators exercise",
+  "authors": [
+    {
+      "github_username": "TalesDias",
+      "exercism_username": "TalesDias"
+    }
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/SalaryCalculator.java"
+    ],
+    "test": [
+      "src/test/java/SalaryCalculatorTest.java"
+    ],
+    "exemplar": [
+      ".meta/src/reference/java/SalaryCalculator.java"
+    ]
+  }
+}
